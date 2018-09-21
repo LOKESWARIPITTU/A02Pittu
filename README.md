@@ -12,3 +12,5 @@ I created 3 pages named home, contact and calculation and linked them with my Lo
 
 - BootStrap: http://getbootstrap.com/
 - forked a repo
+
+- Version control
